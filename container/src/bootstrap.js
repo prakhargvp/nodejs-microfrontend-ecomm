@@ -1,5 +1,5 @@
 import { mount as productsMount } from 'products/ProductIndex';
-import { mount as cartMount} from 'cart/CartShow';
+import { mount as cartMount } from 'cart/CartShow';
 
 console.log('Container!');
 
